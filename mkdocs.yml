@@ -1,31 +1,21 @@
 
 # Replace the text below to customize your site
-site_name: "Fossbot User Guide"
+site_name: "IPowd3r Documentation"
 docs_dir: 'docs/'
 site_dir: 'generated/'
 
 site_description: Documentation website about Fossbot
 site_author: Jules Topart
-copyright: Copyright 2024 - S.T.E.P.S project
+copyright: Copyright 2024 - Laboratoire des Technologies innovantes d'Amiens
 
-site_url: https://JulesTopart.github.io/fossbot-docs/
-repo_url: https://github.com/JulesTopart/fossbot-docs/
-repo_name: fossbot-docs
+site_url: https://JulesTopart.github.io/powd3r-docs/
+repo_url: https://github.com/JulesTopart/powd3r-docs/
+repo_name : powd3r-docs
 
 edit_uri: edit/main/docs/
 
 nav:
   - Home: index.md
-  - User Guide: 
-    - guide.md
-    - first-setup.md
-    - editor.md
-    - simulator.md
-    - assembly-instructions.md
-    - electronics-wiring.md
-    - programming.md
-    - troubleshooting.md
-  - Developpers: dev.md
 
 theme:
   language: fr
@@ -58,15 +48,10 @@ theme:
 extra:
   social:
     # For other social icons at https://squidfunk.github.io/mkdocs-material/setup/adding-social-links/
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/JulesTopart
     - icon: fontawesome/brands/linkedin
       link: https://linkedin.com/in/jules-topart/
   consent:
     title: Cookie consent
-  analytics:
-    provider: google
-    property: G-6XLP4M1QJ3
 
 plugins:
   - search
