@@ -2,6 +2,7 @@
 
 Bienvenue sur la documentation officielle de l’**imprimante 3D Binder Jetting IPowd3r**. Ce guide fournit un aperçu du système, des instructions d’installation, des directives d’utilisation, des étapes de dépannage et des recommandations d’entretien.
 
+
 ## Table des Matières
 
 - [Introduction](#introduction)
