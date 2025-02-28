@@ -1,5 +1,4 @@
 
-# Replace the text below to customize your site
 site_name: "IPowd3r Documentation"
 docs_dir: 'docs/'
 site_dir: 'generated/'
@@ -8,7 +7,7 @@ site_description: Documentation website about Fossbot
 site_author: Jules Topart
 copyright: Copyright 2024 - Laboratoire des Technologies innovantes d'Amiens
 
-site_url: https://JulesTopart.github.io/powd3r-docs/
+site_url: https://julestopart.github.io/powd3r-docs/
 repo_url: https://github.com/JulesTopart/powd3r-docs/
 repo_name : powd3r-docs
 
